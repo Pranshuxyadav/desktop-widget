@@ -1,4 +1,5 @@
 # desktop-widget
+dwonload the zip file
 open run ( windows key + R ) 
 type shell:startup and hit enter
 paste the widget.exe in this folder 
